@@ -4,3 +4,6 @@ langgraph
 pymongo
 python-dotenv
 openai
+pydantic[email]
+asyncio-throttle
+aiofiles
